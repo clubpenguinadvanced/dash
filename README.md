@@ -1,2 +1,2 @@
 # dash
-Club Penguin Advanced Web Services
+Custom Version of <a href="https://github.com/solero/dash"> for use with Club Penguin Advanced servers.
