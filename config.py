@@ -1,0 +1,11 @@
+ADDRESS = '0.0.0.0'
+PORT = 3000
+
+REDIS_ADDRESS = 'localhost'
+REDIS_PORT = 6379
+
+LEGACY_PLAY_LINK = 'https://old.cpadvanced.net' # AS2
+VANILLA_PLAY_LINK = 'https://play.cpadvanced.net' # AS3
+
+LOGIN_FAILURE_TIMER = 3600
+LOGIN_FAILURE_LIMIT = 50000000
